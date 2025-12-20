@@ -1,4 +1,4 @@
-locker_note = ""
+locker_note = "defgdfgdfgd"
 weight_list = [135]
 misses = 0
 
